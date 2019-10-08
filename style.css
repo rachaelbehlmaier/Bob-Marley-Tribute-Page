@@ -1,0 +1,71 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 60px;
+  color: red;
+  text-align: center;
+  font-family: fantasy;
+}
+
+#sub {
+  font-size: 20px;
+  color: yellow;
+  text-align: center;
+  font-family: fantasy;
+}
+
+#image {
+  border-width: 5px;
+  border-style: dotted;
+  border-color: green;
+  display: block;
+  width: 100%;
+  max-width: 625px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  background-image: url("http://getwallpapers.com/wallpaper/full/2/4/c/702230-reggae-backgrounds-1920x1080-lockscreen.jpg");
+}
+
+h2 {
+  color: yellow;
+  text-align: center;
+  font-size: 25px;
+}
+
+ul, li {
+  color: white;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  line-height: 1;
+  font-size: 20px;
+}
+
+#quote {
+  font-style: italic;
+  color: yellow;
+  text-align: center;
+  font-size: 20px;
+}
+
+h3 {
+  color: green;
+  text-align: center;
+}
+
+a {
+  color: red;
+}
+
+
